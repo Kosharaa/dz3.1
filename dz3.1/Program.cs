@@ -27,7 +27,7 @@ namespace dz3._1
             {
                 Console.WriteLine(arr[i]);
             }
-            for (int i = 0; i < arr.Length; i++)
+            for (int i = 0; i < arrCopy.Length; i++)
             {
                 Console.WriteLine(arrCopy[i]);
             }
