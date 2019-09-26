@@ -1,0 +1,6 @@
+D:\c#\DZ\dz3\dz3.1\dz3.1\bin\Debug\dz3.1.exe.config
+D:\c#\DZ\dz3\dz3.1\dz3.1\bin\Debug\dz3.1.exe
+D:\c#\DZ\dz3\dz3.1\dz3.1\bin\Debug\dz3.1.pdb
+D:\c#\DZ\dz3\dz3.1\dz3.1\obj\Debug\dz3.1.csproj.CoreCompileInputs.cache
+D:\c#\DZ\dz3\dz3.1\dz3.1\obj\Debug\dz3.1.exe
+D:\c#\DZ\dz3\dz3.1\dz3.1\obj\Debug\dz3.1.pdb
